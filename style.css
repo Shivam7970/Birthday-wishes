@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(#ff9a9e, #fad0c4);
+    text-align: center;
+    color: #fff;
+}
+
+.section {
+    display: none;
+    height: 100vh;
+    padding: 50px;
+}
+
+.section.active {
+    display: block;
+}
+
+button {
+    padding: 12px 25px;
+    border: none;
+    border-radius: 20px;
+    background: #fff;
+    color: #ff4d6d;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.photos img {
+    width: 150px;
+    border-radius: 15px;
+    margin: 10px;
+}
