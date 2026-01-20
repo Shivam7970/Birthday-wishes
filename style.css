@@ -1,9 +1,13 @@
 body {
     margin: 0;
-    font-family: 'Segoe UI', sans-serif;
-    background: linear-gradient(#ff9a9e, #fad0c4);
-    text-align: center;
-    color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+
+  background: url("bg.jpg") no-repeat center center fixed;
+  background-size: cover;
+
+  overflow: hidden;
+  color: white;
+  text-align: center;
 }
 
 .section {
@@ -31,3 +35,4 @@ button {
     border-radius: 15px;
     margin: 10px;
 }
+
