@@ -2,7 +2,7 @@ body {
     margin: 0;
   font-family: 'Segoe UI', sans-serif;
 
-  background: url("bg.jpg") no-repeat center center fixed;
+  background: url("IMG_20210204_111356.jpg") no-repeat center center fixed;
   background-size: cover;
 
   overflow: hidden;
@@ -35,4 +35,5 @@ button {
     border-radius: 15px;
     margin: 10px;
 }
+
 
